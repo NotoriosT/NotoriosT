@@ -51,9 +51,9 @@ Atualmente, sou instrutor de TI no **SENAI**, onde ensino:
 
 Aqui estão alguns dos projetos nos quais trabalhei e que mostram minha experiência e habilidades:
 
-- **Projeto A**: Descrição breve do projeto, tecnologias utilizadas, e seu papel.
-- **Projeto B**: Descrição breve do projeto, tecnologias utilizadas, e seu papel.
-- **Projeto C**: Descrição breve do projeto, tecnologias utilizadas, e seu papel.
+- **Projeto A**: 
+- **Projeto B**: 
+- **Projeto C**:
 
 ## 🌐 Conecte-se Comigo
 
