@@ -52,8 +52,9 @@ Atualmente, sou instrutor de TI no **SENAI**, onde ensino:
 Aqui estão alguns dos projetos nos quais trabalhei e que mostram minha experiência e habilidades:
 
 - **[RESTAURANTE](https://github.com/NotoriosT/restaurante-front)**: 
-- **Projeto B**: 
+- **[CONSULTORIO](https://github.com/NotoriosT/consultorio-front)**: 
 - **Projeto C**:
+
 
 ## 🌐 Conecte-se Comigo
 
